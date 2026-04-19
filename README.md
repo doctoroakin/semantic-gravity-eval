@@ -4,7 +4,7 @@ An open-source evaluation measuring how frontier vision-language models (VLMs) r
 
 ---
 
-## Start here — the short version
+## Start here: The short version
 
 Here's the thing this benchmark is trying to measure, in three sentences.
 
@@ -18,7 +18,7 @@ This repo has the 41 images used for measurement, the answer key for each one, t
 
 ## What this benchmark measures
 
-When a VLM looks at a phishing page impersonating a real brand, does it read the adversarial URL character-by-character — or does it auto-correct the homoglyphs toward what the brand's real URL *should* look like?
+When a VLM looks at a phishing page impersonating a real brand, does it read the adversarial URL character-by-character or does it auto-correct the homoglyphs toward what the brand's real URL *should* look like?
 
 The short version: sometimes it auto-corrects. Confidently. And that's a problem.
 
